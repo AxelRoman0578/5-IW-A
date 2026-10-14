@@ -9,3 +9,6 @@ Proyecto desarrollado en equipo para practicar Git y GitHub.
 
 ## Objetivo
 Practicar el control de versiones y el trabajo colaborativo.
+
+
+14/10/2026
