@@ -1,7 +1,6 @@
+# Proyecto Web
 
-# Mi Proyecto Web
-
-Proyecto desarrollado para practicar el uso de Git y GitHub.
+Proyecto desarrollado en equipo para practicar Git y GitHub.
 
 ## Tecnologias
 - HTML
