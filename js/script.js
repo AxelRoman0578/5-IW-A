@@ -1,0 +1,4 @@
+
+document.getElementById("boton").addEventListener("click", function() {
+    alert("Hola, Git y GitHub!");
+});
